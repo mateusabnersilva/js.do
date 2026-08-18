@@ -1,0 +1,3 @@
+var entrada;
+entrada = prompt("Qual o seu nome ?");
+alert("Bom Dia " + entrada + "!");
